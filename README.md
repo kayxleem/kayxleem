@@ -11,9 +11,13 @@ I'm a Software Engineer and an IT specialist who currently works as a Software E
 - 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or DevOps.
-- 📫 You can [view my resume](#) and contact me by emailing kayode_adegbuyi@yahoo.com.
+- 📫 You can [view my portfolio](https://github.com/kayxleem/portfolio) and contact me by emailing kayode_adegbuyi@yahoo.com.
+
+## some of my skills and tools
+
+- PHP, Laravel, javascript, Git, Amazon Web Services, HTML, CSS, Node JS.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kayxleem&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayxleem&langs_count=8&layout=compact&hide_border=true" alt="Kayxleem's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kayxleem&show_icons=true&include_all_commits=true&hide_border=true" alt="Kayxleem's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayxleem&langs_count=8&layout=compact&hide_border=true" alt="Kayxleem's GitHub stats" /> |
 | ------------- | ------------- |
